@@ -1,0 +1,14 @@
+title: AGENT MCP
+description: Multi-Agent Control Protocol Framework
+theme: jekyll-theme-minimal
+
+# Site settings
+url: "https://gcrispin59.github.io"
+baseurl: "/AGENT-MCP"
+repository: gcrispin59/AGENT-MCP
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
