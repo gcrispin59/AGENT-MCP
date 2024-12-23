@@ -23,4 +23,4 @@ MIT License - see LICENSE file for details
 ## Author
 
 Graham Crispin
-with contributions from Claude
+With contributions from Claude
